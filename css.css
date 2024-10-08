@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 150px;  /* Adjust the size as needed */
+    height: auto;
+}
